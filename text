@@ -1,0 +1,15 @@
+ $ which python3 
+/usr/bin/python3
+
+alias python=/usr/bin/python3
+
+Create env
+
+sudo pip install pipenv
+pipenv install
+
+Activate
+  pipenv shell
+
+DeActivate
+    deactivate
